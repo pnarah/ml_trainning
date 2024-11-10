@@ -1,0 +1,6 @@
+fastapi==0.74.1
+uvicorn[all]==0.17.5
+PyYAML==6.0
+aiohttp==3.8.1
+slowapi==0.1.5
+torch
