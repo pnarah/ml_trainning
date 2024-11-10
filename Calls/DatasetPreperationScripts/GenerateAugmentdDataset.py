@@ -57,6 +57,26 @@ def generate_path_parameter_variations(template_data):
         })
     return generated_data
 
+def generate_type2_parameter_variations(template_data):
+    generated_data = []
+
+    for email, team_id in zip(template_data["variables"]["email"], template_data["variables"]["teamId"]):
+        # Replace placeholders with the actual values
+        populated_request = {
+            "input_text": template_data["input_text_template"].format(email=email, teamId=team_id),
+            "api_request": {
+                "endpoint": template_data["api_request"]["endpoint"],
+                "method": template_data["api_request"]["method"],
+                "headers": template_data["api_request"]["headers"],
+                "data": {
+                    "email": email,
+                    "teamId": team_id
+                }
+            }
+        }
+        generated_data.append(populated_request)
+    return generated_data
+
 
 def generate_augmented_Dataset():
     # Load training data from a JSON file
@@ -68,7 +88,7 @@ def generate_augmented_Dataset():
 
     # Generate variations for each entry in the training data
     for entry in training_data:
-        if "input_text_template" in entry:
+        if "type" in entry and entry['type'] == 'template1':
             # print("input_text_template", entry['input_text_template'])
             generated_entry_list = generate_path_parameter_variations(entry)
             for generated_entry in generated_entry_list:
@@ -80,7 +100,23 @@ def generate_augmented_Dataset():
 
                 # Create new entries with variations
                 for variation in variations:
-                    print("adding variation to new dataset-", variation)
+                    # print("adding variation to new dataset-", variation)
+                    augmented_data.append({
+                        "input_text": variation,
+                        "api_request": api_request
+                    })
+        elif "type" in entry and entry['type'] == 'template2':
+            generated_entry_list = generate_type2_parameter_variations(entry)
+            for generated_entry in generated_entry_list:
+                input_text = generated_entry["input_text"]
+                api_request = generated_entry["api_request"]
+                # print("generating augmented text for :", input_text)
+                # Generate variations
+                variations = generate_variations(input_text, num_variations=30)  # Adjust num_variations as needed
+
+                # Create new entries with variations
+                for variation in variations:
+                    # print("adding variation to new dataset-", variation)
                     augmented_data.append({
                         "input_text": variation,
                         "api_request": api_request
