@@ -1,0 +1,35 @@
+[
+    {
+        "input_text": "Get data center from SPOG with data center id 6",
+        "api_request": {
+            "endpoint": "/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "6"
+            }
+        }
+    },
+    {
+        "input_text": "Get all teams in SPOG",
+        "api_request": {
+            "endpoint": "/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "input_text_template": "Get detail of team {team_id} from SPOG",
+        "endpoint_template": "/teams/{team_id}",
+        "method": "GET",
+        "variables": {
+            "team_id": [10, 30, 60, 90]
+        }
+    },
+    {
+        "input_text_template": "Get run status of last {days} days from spog across teams",
+        "endpoint_template": "/runs/status/all/{days}",
+        "method": "GET",
+        "variables": {
+            "days": [10, 30, 60, 90]
+        }
+    }
+]
