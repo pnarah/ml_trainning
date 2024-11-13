@@ -57,10 +57,30 @@ loader = DataLoader(dataset, batch_size=2, shuffle=True)
 
 # Define training loop
 optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
+# # Training loop
+# model.train()
+# for epoch in range(3):  # Train for 3 epochs
+#     for batch in loader:
+#         optimizer.zero_grad()
+#         outputs = model(input_ids=batch["input_ids"],
+#                         attention_mask=batch["attention_mask"],
+#                         labels=batch["labels"])
+#         loss = outputs.loss
+#         loss.backward()
+#         optimizer.step()
+#     print(f"Epoch {epoch + 1}, Loss: {loss.item()}")
+
+
+# Initialize lists to store training history
+loss_history = []
+accuracy_history = []
 
 # Training loop
 model.train()
 for epoch in range(3):  # Train for 3 epochs
+    epoch_loss = 0
+    correct_predictions = 0
+    total_predictions = 0
     for batch in loader:
         optimizer.zero_grad()
         outputs = model(input_ids=batch["input_ids"],
@@ -69,13 +89,26 @@ for epoch in range(3):  # Train for 3 epochs
         loss = outputs.loss
         loss.backward()
         optimizer.step()
-    print(f"Epoch {epoch + 1}, Loss: {loss.item()}")
+        # Accumulate loss for the epoch
+        epoch_loss += loss.item()
+        # Calculate accuracy
+        # Assuming outputs.logits provides the raw predictions
+        predictions = torch.argmax(outputs.logits, dim=-1)
+        correct_predictions += (predictions == batch["labels"]).sum().item()
+        total_predictions += batch["labels"].numel()
+        print(f"epoch_loss {epoch_loss} correct_predictions {correct_predictions} total_predictions {total_predictions}")
+    # Calculate average loss and accuracy for the epoch
+    avg_epoch_loss = epoch_loss / len(loader)
+    epoch_accuracy = correct_predictions / total_predictions
+    loss_history.append(avg_epoch_loss)
+    accuracy_history.append(epoch_accuracy)
+    print(f"Epoch {epoch + 1}, Average Loss: {avg_epoch_loss}, Accuracy: {epoch_accuracy}")
+
+# At the end of training, loss_history and accuracy_history contain the average loss and accuracy for each epoch
 
 
-
+# Save the pyTorch model
 torch.save(model.state_dict(), "apipathmodel1.pth")
-
-
 
 # Sample inference function
 def generate_api_request(input_text):
@@ -149,7 +182,7 @@ def parse_generated_text(text):
             "teamId": team_id
         }
     if "dc_id" in params:
-        formatted_output["data"] = params  # For GET, we can treat it as params
+        formatted_output["params"] = params  # For GET, we can treat it as params
     if headers:
         formatted_output["headers"] = headers
 
@@ -185,3 +218,7 @@ api_request = parse_generated_text(generated_text)
 print("Parsed API Request:", json.dumps(api_request, indent=2))
 # response = execute_api_request(api_request)
 # print("API Response:", response)
+
+
+# Clear cache
+# rm -rf ~/.cache/huggingface/hub

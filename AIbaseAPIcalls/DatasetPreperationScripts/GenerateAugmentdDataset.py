@@ -7,7 +7,7 @@ import random
 import json
 
 
-def generate_variations(input_text, num_variations=30):
+def generate_variations(input_text, num_variations=10):
     words = input_text.split()
     variations = set()  # Using a set to avoid duplicate sentences
 
@@ -32,7 +32,7 @@ def generate_variations(input_text, num_variations=30):
     return list(variations)
 
 
-def generate_path_parameter_variations(template_data):
+def generate_type1_variations(template_data):
     generated_data = []
     # Loop over each template entry
     input_text_template = template_data["input_text_template"]
@@ -47,14 +47,22 @@ def generate_path_parameter_variations(template_data):
         input_text = input_text_template.format(**{key: value})
         endpoint = endpoint_template.format(**{key: value})
 
-        # Add the populated entry
-        generated_data.append({
+        form_data = {
             "input_text": input_text,
             "api_request": {
                 "endpoint": endpoint,
                 "method": method
             }
-        })
+        }
+
+        if 'headers' in template_data:
+            form_data['api_request']['headers'] = template_data['headers']
+
+        if 'params' in template_data:
+            form_data['api_request']['params'] = template_data['params']
+        # Add the populated entry
+        generated_data.append(form_data)
+
     return generated_data
 
 def generate_type2_parameter_variations(template_data):
@@ -90,7 +98,7 @@ def generate_augmented_Dataset(variance: int):
     for entry in training_data:
         if "type" in entry and entry['type'] == 'template1':
             # print("input_text_template", entry['input_text_template'])
-            generated_entry_list = generate_path_parameter_variations(entry)
+            generated_entry_list = generate_type1_variations(entry)
             for generated_entry in generated_entry_list:
                 input_text = generated_entry["input_text"]
                 api_request = generated_entry["api_request"]
@@ -130,7 +138,6 @@ def generate_augmented_Dataset(variance: int):
 
             # Create new entries with variations
             for variation in variations:
-                print("adding variation to new dataset-", variation)
                 augmented_data.append({
                     "input_text": variation,
                     "api_request": api_request
@@ -140,7 +147,7 @@ def generate_augmented_Dataset(variance: int):
     # print(json.dumps(augmented_data, indent=2))
 
     # Save augmented data to a new JSON file
-    with open('augmented_training_data_30var.json', 'w') as f:
+    with open('augmented_training_data_10var.json', 'w') as f:
         json.dump(augmented_data, f, indent=2)
 
 
