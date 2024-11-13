@@ -1,11 +1,31 @@
 [
     {
-        "input_text": "Get data center from SPOG with data center id 6",
+        "input_text": "Get data center with id 6",
         "api_request": {
             "endpoint": "https://spogbe.wxccqa.com/dc",
             "method": "GET",
             "params": {
                 "dc_id": "6"
+            }
+        }
+    },
+    {
+        "input_text": "How to get detail of a data center with id three?",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "3"
+            }
+        }
+    },
+     {
+        "input_text": "Provide me details of data center with id 5",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "5"
             }
         }
     },
@@ -17,12 +37,44 @@
         }
     },
     {
-        "input_text_template": "Get detail of team {team_id} from SPOG",
+        "input_text": "How to get all the teams entries in SPOG?",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "input_text": "Get me the all teams that is present in SPOG",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "input_text_template": "Get detail of a with team id {team_id} from SPOG",
         "endpoint_template": "https://spogbe.wxccqa.com/teams/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
             "team_id": [10, 30, 60, 90]
+        }
+    },
+    {
+        "input_text_template": "How to get team info with team id {team_id}?",
+        "endpoint_template": "https://spogbe.wxccqa.com/teams/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [1, 2, 3, 4]
+        }
+    },
+    {
+        "input_text_template": "Get team id {team_id} detail.",
+        "endpoint_template": "https://spogbe.wxccqa.com/teams/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [11, 21, 31, 51]
         }
     },
     {
@@ -35,12 +87,48 @@
         }
     },
     {
+        "input_text_template": "How to get run status of last {days} days?",
+        "endpoint_template": "https://spogbe.wxccqa.com/runs/status/all/{days}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "days": [2, 5, 8, 11]
+        }
+    },
+    {
+        "input_text_template": "Provide me run status for last {days} days?",
+        "endpoint_template": "https://spogbe.wxccqa.com/runs/status/all/{days}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "days": [12, 15, 18, 9]
+        }
+    },
+    {
         "input_text_template": "Get runs of team {team_id} from SPOG",
         "endpoint_template": "https://spogbe.wxccqa.com/runs/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
             "team_id": [10, 16, 7, 8]
+        }
+    },
+    {
+        "input_text_template": "How to get all the runs of team {team_id}?",
+        "endpoint_template": "https://spogbe.wxccqa.com/runs/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [1, 4, 5, 6]
+        }
+    },
+    {
+        "input_text_template": "Provide me all runs of team {team_id}?",
+        "endpoint_template": "https://spogbe.wxccqa.com/runs/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [1, 4, 5, 6]
         }
     },
     {
@@ -54,7 +142,37 @@
         }
     },
     {
-        "input_text_template": "Create a user with email {email} in team with ID {teamId}",
+        "input_text": "Get reservations for team id {team_id}",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/reserve/",
+            "method": "GET",
+            "params": {
+                "team_id": "1"
+            }
+        }
+    },
+    {
+        "input_text": "How to get reservations for team id {team_id}",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/reserve/",
+            "method": "GET",
+            "params": {
+                "team_id": "16"
+            }
+        }
+    },
+    {
+        "input_text": "All reservations of team with id {team_id}",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/reserve/",
+            "method": "GET",
+            "params": {
+                "team_id": "16"
+            }
+        }
+    },
+    {
+        "input_text_template": "Create a user with email {email} with team ID {teamId}",
         "type": "template2",
         "api_request": {
             "endpoint": "https://spogbe.wxccqa.com/users/",
@@ -72,5 +190,46 @@
             "email": ["pnarah@maildummy.com", "pnarah1@maildummy.com", "pnarah2@maildummy.com", "pnarah3@maildummy.com"],
             "teamId": [10, 16, 7, 8]
         }
+    },
+    {
+        "input_text_template": "How to Create a user?",
+        "type": "template2",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/users/",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "email": "{email}",
+                "teamId": "{teamId}"
+            }
+        },
+        "variables": {
+            "email": ["apple@maildummy.com", "orange@maildummy.com", "lemon@maildummy.com", "banana@maildummy.com"],
+            "teamId": [1, 2, 3, 9]
+        }
+    },
+    {
+        "input_text_template": "Add a user with email {email} and team id {teamId}",
+        "type": "template2",
+        "api_request": {
+            "endpoint": "https://spogbe.wxccqa.com/users/",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "email": "{email}",
+                "teamId": "{teamId}"
+            }
+        },
+        "variables": {
+            "email": ["rock@maildummy.com", "paper@maildummy.com", "tree@maildummy.com", "grass@maildummy.com"],
+            "teamId": [11, 17, 21, 22]
+        }
     }
+
 ]

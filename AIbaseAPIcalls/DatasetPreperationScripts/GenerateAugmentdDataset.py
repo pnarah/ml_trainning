@@ -78,7 +78,7 @@ def generate_type2_parameter_variations(template_data):
     return generated_data
 
 
-def generate_augmented_Dataset():
+def generate_augmented_Dataset(variance: int):
     # Load training data from a JSON file
     with open('training_data.json', 'r') as f:
         training_data = json.load(f)
@@ -96,7 +96,7 @@ def generate_augmented_Dataset():
                 api_request = generated_entry["api_request"]
                 # print("generating augmented text for :", input_text)
                 # Generate variations
-                variations = generate_variations(input_text, num_variations=30)  # Adjust num_variations as needed
+                variations = generate_variations(input_text, num_variations=variance)  # Adjust num_variations as needed
 
                 # Create new entries with variations
                 for variation in variations:
@@ -112,7 +112,7 @@ def generate_augmented_Dataset():
                 api_request = generated_entry["api_request"]
                 # print("generating augmented text for :", input_text)
                 # Generate variations
-                variations = generate_variations(input_text, num_variations=30)  # Adjust num_variations as needed
+                variations = generate_variations(input_text, num_variations=variance)  # Adjust num_variations as needed
 
                 # Create new entries with variations
                 for variation in variations:
@@ -126,7 +126,7 @@ def generate_augmented_Dataset():
             api_request = entry["api_request"]
             # print("generating augmented text for :", input_text)
             # Generate variations
-            variations = generate_variations(input_text, num_variations=30)  # Adjust num_variations as needed
+            variations = generate_variations(input_text, num_variations=variance)  # Adjust num_variations as needed
 
             # Create new entries with variations
             for variation in variations:
@@ -140,9 +140,9 @@ def generate_augmented_Dataset():
     # print(json.dumps(augmented_data, indent=2))
 
     # Save augmented data to a new JSON file
-    with open('augmented_training_data.json', 'w') as f:
+    with open('augmented_training_data_30var.json', 'w') as f:
         json.dump(augmented_data, f, indent=2)
 
 
 if __name__ == "__main__":
-    generate_augmented_Dataset()
+    generate_augmented_Dataset(variance=10)
