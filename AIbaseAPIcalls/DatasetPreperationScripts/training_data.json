@@ -2,7 +2,7 @@
     {
         "input_text": "Get data center with id 6",
         "api_request": {
-            "endpoint": "https://testurl.com/dc",
+            "endpoint": "https://spogbackendurl/dc",
             "method": "GET",
             "params": {
                 "dc_id": "6"
@@ -12,7 +12,7 @@
     {
         "input_text": "How to get detail of a data center with id three?",
         "api_request": {
-            "endpoint": "https://testurl.com/dc",
+            "endpoint": "https://spogbackendurl/dc",
             "method": "GET",
             "params": {
                 "dc_id": "3"
@@ -22,7 +22,7 @@
      {
         "input_text": "Provide me details of data center with id 5",
         "api_request": {
-            "endpoint": "https://testurl.com/dc",
+            "endpoint": "https://spogbackendurl/dc",
             "method": "GET",
             "params": {
                 "dc_id": "5"
@@ -32,7 +32,7 @@
     {
         "input_text": "Get all load run profiles",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get",
+            "endpoint": "https://spogbackendurl/load_run_profile/get",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -42,7 +42,7 @@
     {
         "input_text": "Show all run profiles",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get",
+            "endpoint": "https://spogbackendurl/load_run_profile/get",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -52,7 +52,7 @@
     {
         "input_text": "How to get all load run profiles?",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get",
+            "endpoint": "https://spogbackendurl/load_run_profile/get",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -62,7 +62,7 @@
     {
         "input_text": "How to get all active load run profiles?",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -72,7 +72,7 @@
     {
         "input_text": "Show all active load run profiles",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -82,7 +82,7 @@
     {
         "input_text": "Get me all the active load run profiles",
         "api_request": {
-            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
             "method": "GET",
             "headers": {
                 "accept": "application/json"
@@ -91,7 +91,7 @@
     },
     {
         "input_text_template": "Get detail of load run profile with id {load_run_profile_id}",
-        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "endpoint_template": "https://spogbackendurl/load_run_profile/get/{load_run_profile_id}",
         "type": "template1",
         "method": "GET",
         "headers": {
@@ -103,7 +103,7 @@
     },
     {
         "input_text_template": "Show load run profile with id {load_run_profile_id} details",
-        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "endpoint_template": "https://spogbackendurl/load_run_profile/get/{load_run_profile_id}",
         "type": "template1",
         "method": "GET",
         "headers": {
@@ -115,7 +115,7 @@
     },
     {
         "input_text_template": "How to get detail of load run profile with id {load_run_profile_id}?",
-        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "endpoint_template": "https://spogbackendurl/load_run_profile/get/{load_run_profile_id}",
         "type": "template1",
         "method": "GET",
         "headers": {
@@ -128,34 +128,34 @@
     {
         "input_text": "Get all teams in SPOG",
         "api_request": {
-            "endpoint": "https://testurl.com/teams/",
+            "endpoint": "https://spogbackendurl/teams/",
             "method": "GET"
         }
     },
     {
         "input_text": "How to get all the teams entries in SPOG?",
         "api_request": {
-            "endpoint": "https://testurl.com/teams/",
+            "endpoint": "https://spogbackendurl/teams/",
             "method": "GET"
         }
     },
     {
         "input_text": "Get me the all teams that is present in SPOG",
         "api_request": {
-            "endpoint": "https://testurl.com/teams/",
+            "endpoint": "https://spogbackendurl/teams/",
             "method": "GET"
         }
     },
     {
         "input_text": "Get me the all teams that is present in SPOG",
         "api_request": {
-            "endpoint": "https://testurl.com/teams/",
+            "endpoint": "https://spogbackendurl/teams/",
             "method": "GET"
         }
     },
     {
         "input_text_template": "Get detail of a with team id {team_id} from SPOG",
-        "endpoint_template": "https://testurl.com/teams/{team_id}",
+        "endpoint_template": "https://spogbackendurl/teams/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -164,7 +164,7 @@
     },
     {
         "input_text_template": "How to get team info with team id {team_id}?",
-        "endpoint_template": "https://testurl.com/teams/{team_id}",
+        "endpoint_template": "https://spogbackendurl/teams/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -173,7 +173,7 @@
     },
     {
         "input_text_template": "Get team id {team_id} detail.",
-        "endpoint_template": "https://testurl.com/teams/{team_id}",
+        "endpoint_template": "https://spogbackendurl/teams/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -182,7 +182,7 @@
     },
     {
         "input_text_template": "Get run status of last {days} days from spog across teams",
-        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "endpoint_template": "https://spogbackendurl/runs/status/all/{days}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -191,7 +191,7 @@
     },
     {
         "input_text_template": "How to get run status of last {days} days?",
-        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "endpoint_template": "https://spogbackendurl/runs/status/all/{days}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -200,7 +200,7 @@
     },
     {
         "input_text_template": "Provide me run status for last {days} days?",
-        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "endpoint_template": "https://spogbackendurl/runs/status/all/{days}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -209,7 +209,7 @@
     },
     {
         "input_text_template": "Get runs of team {team_id} from SPOG",
-        "endpoint_template": "https://testurl.com/runs/{team_id}",
+        "endpoint_template": "https://spogbackendurl/runs/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -218,7 +218,7 @@
     },
     {
         "input_text_template": "How to get all the runs of team {team_id}?",
-        "endpoint_template": "https://testurl.com/runs/{team_id}",
+        "endpoint_template": "https://spogbackendurl/runs/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -227,7 +227,7 @@
     },
     {
         "input_text_template": "Provide me all runs of team {team_id}?",
-        "endpoint_template": "https://testurl.com/runs/{team_id}",
+        "endpoint_template": "https://spogbackendurl/runs/{team_id}",
         "type": "template1",
         "method": "GET",
         "variables": {
@@ -237,7 +237,7 @@
     {
         "input_text": "Get reservations for team id 16 from SPOG",
         "api_request": {
-            "endpoint": "https://testurl.com/reserve/",
+            "endpoint": "https://spogbackendurl/reserve/",
             "method": "GET",
             "params": {
                 "team_id": "16"
@@ -247,7 +247,7 @@
     {
         "input_text": "Get reservations for team id 1",
         "api_request": {
-            "endpoint": "https://testurl.com/reserve/",
+            "endpoint": "https://spogbackendurl/reserve/",
             "method": "GET",
             "params": {
                 "team_id": "1"
@@ -257,7 +257,7 @@
     {
         "input_text": "How to get reservations for team id 3",
         "api_request": {
-            "endpoint": "https://testurl.com/reserve/",
+            "endpoint": "https://spogbackendurl/reserve/",
             "method": "GET",
             "params": {
                 "team_id": "3"
@@ -267,7 +267,7 @@
     {
         "input_text": "All reservations of team with id 4",
         "api_request": {
-            "endpoint": "https://testurl.com/reserve/",
+            "endpoint": "https://spogbackendurl/reserve/",
             "method": "GET",
             "params": {
                 "team_id": "4"
@@ -278,7 +278,7 @@
         "input_text_template": "Create a user with email {email} with team ID {teamId}",
         "type": "template2",
         "api_request": {
-            "endpoint": "https://testurl.com/users/",
+            "endpoint": "https://spogbackendurl/users/",
             "method": "POST",
             "headers": {
                 "accept": "application/json",
@@ -298,7 +298,7 @@
         "input_text_template": "How to Create a user?",
         "type": "template2",
         "api_request": {
-            "endpoint": "https://testurl.com/users/",
+            "endpoint": "https://spogbackendurl/users/",
             "method": "POST",
             "headers": {
                 "accept": "application/json",
@@ -318,7 +318,7 @@
         "input_text_template": "Add a user with email {email} and team id {teamId}",
         "type": "template2",
         "api_request": {
-            "endpoint": "https://testurl.com/users/",
+            "endpoint": "https://spogbackendurl/users/",
             "method": "POST",
             "headers": {
                 "accept": "application/json",

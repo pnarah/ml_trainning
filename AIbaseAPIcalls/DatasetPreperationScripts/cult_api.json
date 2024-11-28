@@ -1,0 +1,318 @@
+[
+    {
+        "input_text": "API to trigger a call from tester {worker-ip}.",
+        "description": "This API helps to make the voice call using the targeted load tester server",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/originate/create",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic xxxxxxxxxx",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "dialPlan": "cisco_custom_DTMF",
+                "gateway": "{sbcs}",
+                "callerId": "automation",
+                "ignoreEarlyMedia": true,
+                "silenceTimeoutMillis": 100000,
+                "recordType": "record",
+                "callDurationSeconds": "10800",
+                "ani": "{ANI_Number}",
+                "flowSchema": "{flow_schema}",
+                "dialNumber": "{TFN_Number}",
+                "negotiateCodec": [
+                    "PCMU"
+                ]
+            }
+        },
+        "variables": {
+            "worker-ip": [
+                "1.2.3.4",
+                "5.6.7.8"
+            ],
+            "sbcs": [
+                "NONPROD-LAX-SBC3",
+                "NONPROD-LAX-SBC4"
+            ],
+            "ANI_Number": [
+                "put_number1",
+                "put_number2"
+            ],
+            "TFN_Number": [
+                "put_number1",
+                "put_number2"
+            ],
+            "flow_schema": [
+                "10_MUSIC",
+                "45_DTMF_1"
+            ]
+        }
+    },
+    {
+        "input_text": "API to trigger a call from tester {worker-ip} in bulk.",
+        "description": "This API helps to make the voice call using the targeted load tester server in bulk",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/originate/create",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic Basic xxxxxxxxxx",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "requests": [
+                    {
+                        "dialPlan": "cisco_custom_DTMF",
+                        "gateway": "{sbcs}",
+                        "callerId": "automation",
+                        "ignoreEarlyMedia": true,
+                        "silenceTimeoutMillis": 100000,
+                        "recordType": "record",
+                        "callDurationSeconds": "10800",
+                        "ani": "{ANI_Number}",
+                        "flowSchema": [
+                            "{flow_schema}"
+                        ],
+                        "dialNumber": "{TFN_Number}",
+                        "negotiateCodec": [
+                            "PCMU"
+                        ]
+                    },
+                    {
+                        "dialPlan": "cisco_custom_DTMF",
+                        "gateway": "{sbcs}",
+                        "callerId": "automation",
+                        "ignoreEarlyMedia": true,
+                        "silenceTimeoutMillis": 100000,
+                        "recordType": "record",
+                        "callDurationSeconds": "10800",
+                        "ani": "{ANI_Number}",
+                        "flowSchema": [
+                            "{flow_schema}"
+                        ],
+                        "dialNumber": "{TFN_Number}",
+                        "negotiateCodec": [
+                            "PCMU"
+                        ]
+                    }
+                ]
+            }
+        },
+        "variables": {
+            "worker-ip": [
+                "1.2.3.4",
+                "5.6.7.8"
+            ],
+            "sbcs": [
+                "NONPROD-LAX-SBC3",
+                "NONPROD-LAX-SBC4"
+            ],
+            "ANI_Number": [
+                "ANI1, ANI2"
+            ],
+            "TFN_Number": [
+                "TFN1",
+                "TFN2"
+            ],
+            "flow_schema": [
+                "schema1",
+                "schema2"
+            ]
+        }
+    },
+    {
+        "input_text": "API to get the status of a job with jobId {jobid} from tester {worker-ip}.",
+        "description": "API to get the status of a job with jobId",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/originate/info?jobId={jobid}",
+            "method": "GET",
+            "headers": {
+                "Authorization": "Basic =====",
+                "Content-Type": "application/json"
+            },
+            "data": ""
+        },
+        "variables": {
+            "worker-ip": [
+                "1.2.3.4",
+                "5.6.7.8"
+            ],
+            "jobid": [
+                "put_job_id_here"
+            ]
+        }
+    },
+    {
+        "input_text": "API to end the job with jobId {jobid} in tester {worker-ip}.",
+        "description": "API to end the job with jobId",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/originate/end?jobId={jobid}",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ======",
+                "Content-Type": "application/json"
+            },
+            "data": ""
+        },
+        "variables": {
+            "worker-ip": [
+                "1.2.3.4",
+                "5.6.7.8"
+            ],
+            "jobid": [
+                "put_job_id_here"
+            ]
+        }
+    },
+    {
+        "input_text": "API to retrieve inbound call information from tester with IP {worker-ip} for destination number {destination_number} at timestamp {timestamp}.",
+        "description": "API to retrieve inbound call information from tester with IP {worker-ip} for destination number {destination_number} at timestamp {timestamp}",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/call/inbound/info",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ==========",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "destination_number": "{destination_number}",
+                "timestamp": "{timestamp}"
+            }
+        },
+        "variables": {
+            "worker-ip": [
+                "1.2.3.4",
+                "5.6.7.8"
+            ],
+            "destination_number": [
+                "put_destination_number_here"
+            ],
+            "timestamp": [
+                "put_timestamp_here"
+            ]
+        }
+    },
+    {
+        "input_text": "API to rotate log for tester {worker-ip}.",
+        "description": "This API helps for log rotation for the specified tester {worker-ip}",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/rotatelog",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ==================",
+                "Content-Type": "application/json"
+            },
+            "data": {}
+        },
+        "variables": {
+            "worker-ip": [
+                "13.58.207.225"
+            ]
+        }
+    },
+    {
+        "input_text": "API to clear the logs from worker {worker-ip}.",
+        "description": "This API helps to clear the logs on the targeted load tester server.",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/clearlog",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ------------------=",
+                "Content-Type": "application/json"
+            },
+            "data": {}
+        },
+        "variables": {
+            "worker-ip": [
+                "worker-ip"
+            ]
+        }
+    },
+    {
+        "input_text": "API to retrieve resource statistics from worker {worker-ip}.",
+        "description": "This API fetches resource statistics from the targeted load tester server.",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/resourcestat",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ============",
+                "Content-Type": "application/json"
+            },
+            "data": {}
+        },
+        "variables": {
+            "worker-ip": [
+                "worker-ip"
+            ]
+        }
+    },
+    {
+        "input_text": "API to retrieve call statistics from worker {worker-ip}.",
+        "description": "This API fetches call statistics from the targeted load tester server.",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/callstat",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic ============",
+                "Content-Type": "application/json"
+            },
+            "data": {}
+        },
+        "variables": {
+            "worker-ip": [
+                "worker-ip"
+            ]
+        }
+    },
+    {
+        "input_text": "API to configure the agent settings on worker {worker-ip}.",
+        "description": "This API configures the agent's settings such as agent DN, audio settings, playback loop count, and record type.",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/agent/config",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic =============",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "agentDnNumber": "{agentDN}"
+            },
+            "agentAudio": [
+                "10_customer-loadus_0",
+                "10_customer-produs_0",
+                "10_customer-qaus_0"
+            ],
+            "playBackLoop": 6,
+            "recordType": "norecord"
+        },
+        "variables": {
+            "worker-ip": [
+                "worker-ip"
+            ],
+            "agentDN": [
+                "DN1_value",
+                "DN2_value"
+            ]
+        }
+    },
+    {
+        "input_text": "API to revoke an agent using a specific number on worker {worker-ip}.",
+        "description": "This API revokes an agent using the provided agent number from the targeted load tester server.",
+        "api_request": {
+            "endpoint": "http://{worker-ip}/agent/revoke?number={number}",
+            "method": "POST",
+            "headers": {
+                "Authorization": "Basic =============",
+                "Content-Type": "application/json"
+            },
+            "data": {}
+        },
+        "variables": {
+            "worker-ip": [
+                "worker-ip"
+            ],
+            "number": [
+                "agent_number"
+            ]
+        }
+    }
+]

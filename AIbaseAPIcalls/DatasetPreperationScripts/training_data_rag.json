@@ -1,0 +1,268 @@
+[
+    {
+        "api_name": "Get data center 6 detail",
+        "description" : "This API is to get data center detail of a specific data center with id 6 that is configured in SPOG tool. Along with authorization the API need dc_id as a parameter. In case someone want to det detail of data center with id 6 he can use this api to get the details",
+        "api_request": {
+            "endpoint": "https://testurl.com/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "6"
+            }
+        }
+    },
+    {
+        "api_name": "Get specific data center detail",
+        "description" : "You can use this API to fetch the details of a particular data centre with id 3 configured in SPOG. It requires an Authorization token and the 3 to provide the requested information.",
+        "api_request": {
+            "endpoint": "https://testurl.com/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "3"
+            }
+        }
+    },
+     {
+         "api_name": "Provide me details of data center with id 5",
+         "description": "This API is meant for obtaining details about a data centre using its unique id 5, as managed in the SPOG system. Authorization and 5 are mandatory inputs for accessing the data.",
+         "api_request": {
+            "endpoint": "https://testurl.com/dc",
+            "method": "GET",
+            "params": {
+                "dc_id": "5"
+            }
+        }
+    },
+    {
+        "api_name": "Get all load run profiles",
+        "description": "This API is ment for getting all the load run profiles that exist in the SPOG system or SPOG tool. It needs accept header if type application/json along with Authorization key.",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name": "Show all run profiles",
+        "description": "This API allows you to fetch all load run profiles stored in the SPOG system or tool. It requires an authorization key along with an \"accept\" header set to \"application/json.\"",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name": "All load run profiles.",
+        "description": "With this API, you can get all available load run profiles from the SPOG system or tool. Be sure to provide the required authorization key and set the \"accept\" header to \"application/json.\"",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name": "Get all active load run profiles",
+        "description": "This API will retun all the active load run profiles that is present in SPOG system. This is a GET method and needs accept header of type application/json.",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name": "Show all active load run profiles",
+        "description" : "This API retrieves all active load run profiles from the SPOG system. It uses the GET method and requires an \"accept\" header set to \"application/json.\"",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name": "Get me all the active load run profiles",
+        "description": "To retrieve all active load run profiles from the SPOG system, you can use this API. It’s a GET request and requires the \"accept\" header of type \"application/json.\"",
+        "api_request": {
+            "endpoint": "https://testurl.com/load_run_profile/get_active_load_profiles",
+            "method": "GET",
+            "headers": {
+                "accept": "application/json"
+            }
+        }
+    },
+    {
+        "api_name_template": "Get detail of load run profile with id {load_run_profile_id}",
+        "description": "API to get detail of load run profile with id {load_run_profile_id}. This used GET method with accept header of type \"application/json\"",
+        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "type": "template1",
+        "method": "GET",
+        "headers": {
+            "accept": "application/json"
+        },
+        "variables": {
+            "load_run_profile_id": [1, 2, 3, 4]
+        }
+    },
+    {
+        "api_name_template": "Show load run profile with id {load_run_profile_id} details",
+        "description": "This API is to show the details of a load run profile with id {load_run_profile_id}. This used GET method with accept header of type \"application/json\".",
+        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "type": "template1",
+        "method": "GET",
+        "headers": {
+            "accept": "application/json"
+        },
+        "variables": {
+            "load_run_profile_id": [10, 30, 60, 90]
+        }
+    },
+    {
+        "api_name_template": "How to get detail of load run profile with id {load_run_profile_id}?",
+         "description": "This API will give you the details of a load run profile with having its id as {load_run_profile_id}. This used GET method with accept header of type \"application/json\".",
+        "endpoint_template": "https://testurl.com/load_run_profile/get/{load_run_profile_id}",
+        "type": "template1",
+        "method": "GET",
+        "headers": {
+            "accept": "application/json"
+        },
+        "variables": {
+            "load_run_profile_id": [34, 11, 33, 22]
+        }
+    },
+    {
+        "api_name": "Get teams in SPOG",
+        "description": "API to return all the listed teams in SPOG tool. This used GET method with accept header of type \"application/json\".",
+        "api_request": {
+            "endpoint": "https://testurl.com/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "api_name": "How to get all the teams entries in SPOG?",
+        "description": "To retrieve all the teams in SPOG tool we can use this API. This used GET method with accept header of type \"application/json\".",
+        "api_request": {
+            "endpoint": "https://testurl.com/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "api_name": "Get me the all teams that is present in SPOG",
+        "description": "This API provides all the teams in SPOG. This used GET method with accept header of type \"application/json\".",
+        "api_request": {
+            "endpoint": "https://testurl.com/teams/",
+            "method": "GET"
+        }
+    },
+    {
+        "api_name_template": "Get detail of a with team id {team_id} from SPOG",
+        "description": "Use this API to get detail of a team with id as {team_id}. Here the team_id is passed as part of the URL path itself.",
+        "endpoint_template": "https://testurl.com/teams/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [10, 30, 60, 90]
+        }
+    },
+    {
+        "api_name_template": "How to get team info with team id {team_id}?",
+        "description": "API to get detail of a specific team. You need to pass the specific team_id of the team as part of the URL path for which detail you are looking for.",
+        "endpoint_template": "https://testurl.com/teams/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [1, 2, 3, 4]
+        }
+    },
+    {
+        "api_name_template": "Get run status of last {days} days from spog across teams",
+        "description": "Use this API to get detail of all the load run's status across teams. This API needs duration as days e.g {days} days to look for the load runs. It will return all the load run done across teams in last {days} days.",
+        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "days": [10, 30, 60, 90]
+        }
+    },
+    {
+        "api_name_template": "How to get run status of last {days} days?",
+        "description": "Use this API to get detail of all the load run's status across teams. This API needs duration as days e.g {days} days to look for the load runs. It will return all the load run done across teams in last {days} days.",
+        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "days": [2, 5, 8, 11]
+        }
+    },
+    {
+        "api_name_template": "Retrieve run status for last {days} days.",
+        "description": "Use this API to retrieve all the load run status for last {days} days. This API needs duration as days e.g {days} days to look for the load runs. It will return all the load run done across teams in last {days} days.",
+        "endpoint_template": "https://testurl.com/runs/status/all/{days}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "days": [12, 15, 18, 9]
+        }
+    },
+    {
+        "api_name_template": "Get team {team_id} load runs.",
+        "description": "Use this API to retrieve all the load run status of a team with team id {team_id}. This API get all the load runs done by a specific team say {team_id}.",
+        "endpoint_template": "https://testurl.com/runs/{team_id}",
+        "type": "template1",
+        "method": "GET",
+        "variables": {
+            "team_id": [10, 16, 7, 8]
+        }
+    },
+    {
+        "api_name": "Get reservations for team id 16 from SPOG",
+        "description": "Use this API to get reservation details for team 16 in SPOG. This API need team_id as its parameter.",
+        "api_request": {
+            "endpoint": "https://testurl.com/reserve/",
+            "method": "GET",
+            "params": {
+                "team_id": "16"
+            }
+        }
+    },
+    {
+        "api_name": "Get reservations for team 1.",
+        "description": "API to retrieve reservation detail of a team with id suppose 1. This API need's team_id as its parameter and do the GET request.",
+        "api_request": {
+            "endpoint": "https://testurl.com/reserve/",
+            "method": "GET",
+            "params": {
+                "team_id": "1"
+            }
+        }
+    },
+    {
+        "api_name_template": "Create user {email} with team id {teamId}",
+        "description": "Use this API to create a user in SPOG. It needs user email id e.g {email} and the team that user belongs e.g {teamId}. The teamId should be already existing in the system to successfully add the user.",
+        "type": "template2",
+        "api_request": {
+            "endpoint": "https://testurl.com/users/",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                "email": "{email}",
+                "teamId": "{teamId}"
+            }
+        },
+        "variables": {
+            "email": ["pnarah@maildummy.com", "pnarah1@maildummy.com", "pnarah2@maildummy.com", "pnarah3@maildummy.com"],
+            "teamId": [10, 16, 7, 8]
+        }
+    }
+]
+

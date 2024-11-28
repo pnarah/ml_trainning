@@ -16,7 +16,7 @@ def generate_variations(input_text, num_variations=10):
         new_sentence = []
         for word in words:
             # Get synonyms for words that are likely action verbs or nouns
-            synonyms = wn.synsets(word)
+            synonyms = wn.synsets(word, lang='eng')
             if synonyms:
                 # Choose a random synonym's name, if available
                 syn = random.choice(synonyms).lemma_names()[0]
