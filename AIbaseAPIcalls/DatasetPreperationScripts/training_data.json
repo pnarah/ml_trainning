@@ -126,6 +126,30 @@
         }
     },
     {
+        "input_text_template": "Cancel reservation with id {reservation_id}",
+        "endpoint_template": "https://spogbackendurl/reserve/cancel/{reservation_id}",
+        "type": "template1",
+        "method": "DELETE",
+        "headers": {
+            "accept": "application/json"
+        },
+        "variables": {
+            "reservation_id": [34, 11, 33, 22]
+        }
+    },
+    {
+        "input_text_template": "Cancel reservation {reservation_id}",
+        "endpoint_template": "https://spogbackendurl/reserve/cancel/{reservation_id}",
+        "type": "template1",
+        "method": "DELETE",
+        "headers": {
+            "accept": "application/json"
+        },
+        "variables": {
+            "reservation_id": [2, 5, 7, 60]
+        }
+    },
+    {
         "input_text": "Get all teams in SPOG",
         "api_request": {
             "endpoint": "https://spogbackendurl/teams/",
@@ -235,6 +259,87 @@
         }
     },
     {
+        "input_text_template": "Create a reservation in data center {dc} from time {from_time} to time {to_time} with my user id {email} and team id {teamId}",
+        "type": "template3",
+        "api_request": {
+            "endpoint": "https://spogbackendurl/reserve/create",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                    "email": "{email}",
+                    "team_id": "{teamId}",
+                    "dc_id": "{dc}",
+                    "testType": "inboundvoice",
+                    "start_time": "{from_time}",
+                     "end_time": "{to_time}"
+                }
+            },
+            "variables": {
+                "email": ["apple@maildummy.com", "orange@maildummy.com", "lemon@maildummy.com", "banana@maildummy.com"],
+                "teamId": [1, 2, 3, 9],
+                "dc": [6, 2, 1, 3],
+                "from_time": ["2024-07-14T10:52:22.831Z", "2024-08-13T11:12:21.811Z", "2024-09-11T12:32:12.891Z", "2024-10-12T13:00:22.791Z"],
+                "to_time": ["2024-07-14T14:52:22.891Z", "2024-08-13T15:12:12.191Z", "2024-09-11T16:52:02.893Z", "2024-10-12T17:32:44.831Z"]
+            }
+    },
+    {
+        "input_text_template": "How to create a reservation in spog tool?",
+        "type": "template2",
+        "api_request": {
+            "endpoint": "https://spogbackendurl/reserve/create",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                    "email": "{email}",
+                    "team_id": "{teamId}",
+                    "dc_id": "{dc}",
+                    "testType": "inboundvoice",
+                    "start_time": "{from_time}",
+                     "end_time": "{to_time}"
+                }
+            },
+            "variables": {
+                "email": ["apple@maildummy.com", "orange@maildummy.com", "lemon@maildummy.com", "banana@maildummy.com"],
+                "teamId": [1, 2, 3, 9],
+                "dc": [6, 2, 1, 3],
+                "from_time": ["2024-07-14T10:52:22.831Z", "2024-08-13T11:12:21.811Z", "2024-09-11T12:32:12.891Z", "2024-10-12T13:00:22.791Z"],
+                "to_time": ["2024-07-14T14:52:22.891Z", "2024-08-13T15:12:12.191Z", "2024-09-11T16:52:02.893Z", "2024-10-12T17:32:44.831Z"]
+            }
+    },
+    {
+        "input_text_template": "What is the curl command to create a reservation in spog?",
+        "type": "template2",
+        "api_request": {
+            "endpoint": "https://spogbackendurl/reserve/create",
+            "method": "POST",
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json"
+            },
+            "data": {
+                    "email": "{email}",
+                    "team_id": "{teamId}",
+                    "dc_id": "{dc}",
+                    "testType": "inboundvoice",
+                    "start_time": "{from_time}",
+                     "end_time": "{to_time}"
+                }
+            },
+            "variables": {
+                "email": ["apple@maildummy.com", "orange@maildummy.com", "lemon@maildummy.com", "banana@maildummy.com"],
+                "teamId": [1, 2, 3, 9],
+                "dc": [6, 2, 1, 3],
+                "from_time": ["2024-07-14T10:52:22.831Z", "2024-08-13T11:12:21.811Z", "2024-09-11T12:32:12.891Z", "2024-10-12T13:00:22.791Z"],
+                "to_time": ["2024-07-14T14:52:22.891Z", "2024-08-13T15:12:12.191Z", "2024-09-11T16:52:02.893Z", "2024-10-12T17:32:44.831Z"]
+            }
+    },
+    {
         "input_text": "Get reservations for team id 16 from SPOG",
         "api_request": {
             "endpoint": "https://spogbackendurl/reserve/",
@@ -334,5 +439,4 @@
             "teamId": [11, 17, 21, 22]
         }
     }
-
 ]
