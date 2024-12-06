@@ -57,18 +57,7 @@ loader = DataLoader(dataset, batch_size=2, shuffle=True)
 
 # Define training loop
 optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
-# # Training loop
-# model.train()
-# for epoch in range(3):  # Train for 3 epochs
-#     for batch in loader:
-#         optimizer.zero_grad()
-#         outputs = model(input_ids=batch["input_ids"],
-#                         attention_mask=batch["attention_mask"],
-#                         labels=batch["labels"])
-#         loss = outputs.loss
-#         loss.backward()
-#         optimizer.step()
-#     print(f"Epoch {epoch + 1}, Loss: {loss.item()}")
+
 
 
 # Initialize lists to store training history
