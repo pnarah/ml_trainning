@@ -1,0 +1,6817 @@
+[
+  {
+    "input_text": "receive datum center with Idaho six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "6"
+      }
+    }
+  },
+  {
+    "input_text": "Get data center with id 6",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "6"
+      }
+    }
+  },
+  {
+    "input_text": "get data center with id six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "6"
+      }
+    }
+  },
+  {
+    "input_text": "remember data center detail with Idaho five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "5"
+      }
+    }
+  },
+  {
+    "input_text": "Retrieve data center detail with id 5",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "5"
+      }
+    }
+  },
+  {
+    "input_text": "retrieve data center contingent with id five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "5"
+      }
+    }
+  },
+  {
+    "input_text": "How to get detail of a data center with id three?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "3"
+      }
+    }
+  },
+  {
+    "input_text": "How to receive detail of angstrom datum center with Idaho three?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "3"
+      }
+    }
+  },
+  {
+    "input_text": "How to catch detail of deoxyadenosine monophosphate datum center with id three?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "3"
+      }
+    }
+  },
+  {
+    "input_text": "Provide me details of data center with id 8",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "8"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine details of datum center with Idaho eight",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "8"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine detail of data center with id eight",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "8"
+      }
+    }
+  },
+  {
+    "input_text": "How to catch contingent of ampere datum center detail?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "9"
+      }
+    }
+  },
+  {
+    "input_text": "How to get detail of a data center detail?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "9"
+      }
+    }
+  },
+  {
+    "input_text": "How to make detail of A data center field detail?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "9"
+      }
+    }
+  },
+  {
+    "input_text": "Provide me details of data center with id 4",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "4"
+      }
+    }
+  },
+  {
+    "input_text": "leave Maine detail of data center with ID four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "4"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine detail of datum plaza with ID four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "4"
+      }
+    }
+  },
+  {
+    "input_text": "Fetch the data center with ID 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "11"
+      }
+    }
+  },
+  {
+    "input_text": "fetch the data center with ID 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "11"
+      }
+    }
+  },
+  {
+    "input_text": "fetch the datum center with id 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "11"
+      }
+    }
+  },
+  {
+    "input_text": "Can you fetch the data center with ID 12?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "12"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch the datum center with ID 12?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "12"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch the datum plaza with ID 12?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "12"
+      }
+    }
+  },
+  {
+    "input_text": "display the data center corresponding to ID 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "13"
+      }
+    }
+  },
+  {
+    "input_text": "display the datum kernel comparable to ID 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "13"
+      }
+    }
+  },
+  {
+    "input_text": "Display the data center corresponding to ID 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "13"
+      }
+    }
+  },
+  {
+    "input_text": "contribute Maine detail of the data focus on with id 14.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "14"
+      }
+    }
+  },
+  {
+    "input_text": "contribute Maine detail of the datum center with ID 14.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "14"
+      }
+    }
+  },
+  {
+    "input_text": "Give me details of the data center with ID 14.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "14"
+      }
+    }
+  },
+  {
+    "input_text": "please remember the data concentrate with ID fifteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "15"
+      }
+    }
+  },
+  {
+    "input_text": "Please retrieve the data center with ID 15",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "15"
+      }
+    }
+  },
+  {
+    "input_text": "please recover the data center with id fifteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "15"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine with the datum center hold ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "16"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine with the datum center accept Idaho 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "16"
+      }
+    }
+  },
+  {
+    "input_text": "Provide me with the data center having ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/dc",
+      "method": "GET",
+      "params": {
+        "dc_id": "16"
+      }
+    }
+  },
+  {
+    "input_text": "Get all load run profiles",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "pay back wholly load run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "scram all load run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "bring all the load move profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "fetch all the load tend profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Fetch all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Retrieve every load run profile.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "retrieve every load run profile.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "leave Maine with wholly the load tend profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Provide me with all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "supply Maine with all the lode run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "list all load political campaign profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "List all load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "number all burden hunt profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show me all load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "express Maine all load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show Maine wholly load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "suffer wholly load run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "arrive all load run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get all load run profiles",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show wholly run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show all run profiles",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "picture all run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to grow all load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to get all load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to get wholly load race profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get me all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "drive Maine all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "grow Maine wholly the load footrace profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "displace you fetch all cargo scat profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch all load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Can you fetch all load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I need all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "one indigence all the load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "one need wholly the lode run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Please retrieve all load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please retrieve all load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please remember all load function profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show wholly active cargo run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show all active load run profiles",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show all active agent load move visibility",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "give Maine vitamin A list of wholly active load carry profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "give Maine vitamin A list of all active load campaign profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Give me a list of all active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "expose wholly the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Display all the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "display all the active cargo run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Bring me the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "bring Maine the active agent lode run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "bring Maine the active warhead run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please retrieve wholly active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Please retrieve all active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please retrieve all active burden run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "one need all the active warhead run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I need all the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch wholly active load test profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch all active load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Can you fetch all active load run profiles?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "testify Maine wholly the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show me all the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "prove Maine all the active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Fetch all the active load run profiles for me.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "fetch all the active lode move profile for me.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "fetch all the active lode range profile for me.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "recover all active load streak profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "remember all active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Retrieve all active load run profiles.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get me all the active load run profiles",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "catch Maine wholly the active voice load run profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "induce Maine all the active load ladder profile",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get_active_load_profiles",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "grow detail of load run profile with ID one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/1",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get detail of load run profile with id 1",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/1",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "become detail of load run profile with Idaho one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/1",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Fetch the details of the load run profile with ID 2",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/2",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "bring the detail of the load run profile with ID two",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/2",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "fetch the detail of the load run profile with ID two",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/2",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Retrieve the load run profile details for ID 3",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "recover the cargo run profile contingent for ID three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "retrieve the load run profile detail for Idaho three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Provide me with the details of the load run profile having ID 3",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "put up Maine with the detail of the load melt profile have id three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "provide Maine with the detail of the load run profile consume Idaho three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/3",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "experience Maine the warhead run profile detail for id four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/4",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "become Maine the load run profile detail for id four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/4",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get me the load run profile details for ID 4",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/4",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "list the details of the burden run profile with id five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/5",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "list the detail of the load run profile with id five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/5",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "List the details of the load run profile with ID 5",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/5",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show me the details of the load run profile with ID 6",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/6",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show Maine the detail of the warhead run profile with ID six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/6",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "usher Maine the details of the load hunt visibility with id six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/6",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch the load race profile detail for ID seven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/7",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you fetch the load race profile detail for id seven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/7",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Can you fetch the load run profile details for ID 7",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/7",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "iodine motivation the detail of the cargo run profile with ID eight",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/8",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I need the details of the load run profile with ID 8",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/8",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "one motivation the details of the burden run profile with ID eight",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/8",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Please retrieve the details of the load run profile for ID 9",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/9",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please remember the detail of the load run profile for id nine",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/9",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please retrieve the details of the load run profile for Idaho nine",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/9",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "bring Maine the detail of the load run profile that have ID ten",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Bring me the details of the load run profile that has ID 10",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "fetch Maine the detail of the load guide profile that hour angle ID ten",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "display the load run profile detail corresponding to ID eleven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Display the load run profile details corresponding to ID 11",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "display the load carry profile detail correspond to id eleven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "give Maine the detail of the load run profile with Associate in Nursing Idaho of twelve",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/12",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Give me the details of the load run profile with an ID of  12",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/12",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "pass Maine the detail of the warhead run profile with Associate in Nursing id of twelve",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/12",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "read load run profile with Idaho ten detail",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "show warhead operate profile with Idaho ten detail",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show load run profile with id 10 details",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/10",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "usher warhead tend visibility with Idaho thirty detail",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/30",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "appearance lode run profile with id thirty detail",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/30",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Show load run profile with id 30 details",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/30",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to get contingent of load melt profile with ID 34?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/34",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to get detail of load run profile with id 34?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/34",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to draw contingent of load streak profile with id 34?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/34",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to suffer detail of load run profile with id 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to have detail of load ladder profile with id 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to get detail of load run profile with id 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/load_run_profile/get/11",
+      "method": "GET",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "delete booking with Idaho thirty-four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/34",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Cancel reservation with id 34",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/34",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "cancel reservation with ID thirty-four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/34",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please cancel the mental reservation that hour angle Idaho twenty-four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/24",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Please cancel the reservation that has ID  24",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/24",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please cancel the booking that own ID twenty-four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/24",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Terminate the reservation with ID 14",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/14",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "end the reservation with id fourteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/14",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "displace the reservation with id fourteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/14",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Revoke the reservation identified by ID 4",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/4",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "revoke the reservation identify by Idaho four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/4",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "remove the mental reservation with Idaho thirty-five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/35",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "remove the reservation with Idaho thirty-five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/35",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Remove the reservation with ID 35",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/35",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "natural the engagement consociate with id twenty-five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/25",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "cancel the booking consociate with id twenty-five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/25",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Cancel the booking associated with ID 25",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/25",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "edit the reservation that match to ID fifteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/15",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "erase the reservation that match to ID fifteen",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/15",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Delete the reservation that corresponds to ID 15",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/15",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Discard the reservation with an ID of 5",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/5",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "discard the reservation with Associate in Nursing id of five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/5",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "discard the mental reservation with Associate in Nursing id of five",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/5",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "goal the reservation with ID thirty-six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/36",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "end the reservation with id thirty-six",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/36",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "End the reservation with ID 36",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/36",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "can you delete the booking with ID 126",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/126",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "toilet you natural the reservation with ID 126",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/126",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Can you cancel the reservation with ID 126",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/126",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I need the reservation with ID  116 to be canceled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/116",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I indigence the reservation with id 116 to be canceled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/116",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "I need the booking with Idaho 116 to cost canceled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/116",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "delete booking 260",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/260",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Cancel reservation 260",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/260",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "cancel mental reservation 260",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/260",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "delete the reservation consort with ID 110.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/110",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Delete the reservation associated with ID 110.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/110",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "erase the reservation consort with ID 110.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/110",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "natural the reservation bind to reservation id 1160.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "cancel the reservation tie to mental reservation Idaho 1160.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Cancel the reservation tied to reservation ID 1160.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "please end the reservation assign to Idaho 460",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/460",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Please terminate the reservation assigned to ID 460",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/460",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to end the reservation impute to Idaho 564",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/564",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to terminate the reservation assigned to ID 564",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/564",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How to end the mental reservation delegate to Idaho 564",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/564",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How do I cancel reservation with ID 897",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/897",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How do one delete reservation with ID 897",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/897",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "How make iodine natural mental reservation with Idaho 897",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/897",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "What is the curl command to cancel reservation assigned to ID 934",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/934",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "What equal the coil control to cancel booking assign to id 934",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/934",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "What constitute the curl up command to cancel reservation arrogate to id 934",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/934",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "get down Maine the curl dominate to cansel reservation with id 510",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/510",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "suffer Maine the Curl control to cansel reservation with ID 510",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/510",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Get me the curl command to cansel reservation with id 510",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/510",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "reservation ID 656 inevitably to equal cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/656",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "reservation id 656 need to embody cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/656",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Reservation id 656 needs to be cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/656",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "survive and cancel reservation 9990",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/9990",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "travel and delete reservation 9990",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/9990",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Go and cancel reservation 9990",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/9990",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "1160 cost the reservation id that indigence to be cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "1160 exist the reservation Idaho that motivation to be cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "1160 is the reservation Id that needs to be cancelled.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/cancel/1160",
+      "method": "DELETE",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  {
+    "input_text": "Create team with name team1 as a customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team1",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "create team with name team1 American Samoa angstrom customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team1",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "produce team with mention team1 deoxyadenosine monophosphate angstrom customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team1",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "determine up vitamin A team mention team2 ampere A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team2",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "Set up a team named team2 as a customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team2",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "set up angstrom team list team2 deoxyadenosine monophosphate A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team2",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "Establish a team called team3 as a customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team3",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "prove A team call team3 A A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team3",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "establish deoxyadenosine monophosphate team call team3 A A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team3",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "Add a team named team4 as a customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team4",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "total A team name team4 ampere deoxyadenosine monophosphate customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team4",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "total vitamin A team diagnose team4 arsenic A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team4",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "form ampere customer team with the name team5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team5",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "form deoxyadenosine monophosphate customer team with the name team5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team5",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "Form a customer team with the name team5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team5",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "build deoxyadenosine monophosphate team with the name team6 equally A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team6",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "Build a team with the name team6 as a customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team6",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "build angstrom team with the name team6 ampere A customer.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team6",
+        "is_customer": true
+      }
+    }
+  },
+  {
+    "input_text": "On-board team with name team11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team11",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "add team team112.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team112",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Add team team112.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team112",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "class adenine team appoint team122.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team122",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "shape adenine team name team122.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team122",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Form a team named team122.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team122",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "set up A team mention team132.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team132",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Set up a team named team132.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team132",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "fit up vitamin A team name team132.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team132",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "produce ampere team call team82.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team82",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "create vitamin A team bid team82.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team82",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Create a team called team82.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team82",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "form A team appoint team92.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team92",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "form deoxyadenosine monophosphate team list team92.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team92",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Form a team named team92.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team92",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Add a team named team192",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team192",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "attention deficit disorder adenine team name team192",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team192",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "total vitamin A team appoint team192",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team192",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "initiate the universe of deoxyadenosine monophosphate team name team921.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team921",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Initiate the creation of a team named team921.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team921",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "initiate the universe of adenine team name team921.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team921",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "establish A new team call team292.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team292",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "launch ampere new team call team292.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team292",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Launch a new team called team292.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team292",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "Start a team with the name team392.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team392",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "begin A team with the name team392.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team392",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "start A team with the name team392.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team392",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "How to add team team412?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/admin/create/team",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "name": "team412",
+        "is_customer": false
+      }
+    }
+  },
+  {
+    "input_text": "get wholly team in SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get all teams in SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get down all team in SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch all the team Indiana the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch all the teams in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "bring all the team in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember all team present.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "retrieve wholly team present.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve all teams present.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "List all teams in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "list all team in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "read Maine wholly the team inch SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Show me all the teams in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "testify Maine all the team in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Provide all the teams in SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide all the team in SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "arrive vitamin A list of all team inch the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "drive A number of all team in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get a list of all teams in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "can you bring all team in the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Can you fetch all teams in the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "can you fetch all team inch the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "iodine want all the team in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "iodine need all the team inch the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "I need all the teams in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "display all team inch the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "expose all team in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Display all teams in the system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get all the team submission inch SPOG?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get all the team entry in SPOG?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get all the teams entries in SPOG?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get me the all teams that is present in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "catch Maine the all team that be stage inch SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "draw Maine the all team that equal introduce in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get me the all teams that is present in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "make Maine the all team that be present in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get Maine the wholly team that be present in SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "receive contingent of angstrom with team ID ten from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "perplex detail of vitamin A with team id ten from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get detail of a with team id 10 from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to experience team information with team id 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to receive team information with team id 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get team info with team id 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to retrieve team info with team id 100?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/100",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to recover team information with team ID 100?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/100",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to recover team information with team id 100?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/100",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the information of the team with ID 110 from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/110",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "retrieve the information of the team with ID one hundred ten from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/110",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the information of the team with Idaho one hundred ten from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/110",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get the team detail with Idaho 27.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/27",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get the team detail with ID 27.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/27",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get the team details with ID 27.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/27",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "put up the detail of the team with ID forty-five from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/45",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Provide the details of the team with ID 45 from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/45",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide the detail of the team with id forty-five from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/45",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "show Maine the detail of the team identify aside ID fifty-nine from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/59",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "express Maine the contingent of the team identify aside id fifty-nine from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/59",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Show me the details of the team identified by ID 59 from the SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/59",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Can you fetch the details of the team with ID 60 from the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/60",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "displace you fetch the detail of the team with Idaho sixty from the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/60",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "can you fetch the contingent of the team with id sixty from the system?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/60",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "bring Maine the detail of the team with id 121 from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/121",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "catch Maine the detail of the team with id 121 from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/121",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get me the details of the team with ID 121 from the SPOG system.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/121",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "please remember the detail of the team with id 212.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/212",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "please remember the detail of the team with Idaho 212.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/212",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Please retrieve the details of the team with ID 212.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/212",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch the team information with ID 789.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/789",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the team information with id 789.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/789",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the team information with ID 789.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/789",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "I need the details of the team with id 675.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/675",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "I need the details of the team with ID 675.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/675",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "iodine need the detail of the team with id 675.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/teams/675",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "contract run status of last ten day from spog across team",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get run status of last 10 days from spog across teams",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get run status of last ten day from spog across team",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to suffer run status of final two days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/2",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to receive operate condition of last two days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/2",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get run status of last 2 days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/2",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide Maine ply status for survive one days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "put up Maine run condition for last one days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Provide me run status for last 1 days?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the run status for the last twenty-one day across all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/21",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch the run status for the last 21 days across all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/21",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the guide condition for the survive twenty-one sidereal day across all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/21",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the run status for the past 112 days across teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/112",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "recover the run condition for the past 112 day across teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/112",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "recover the play status for the past 112 days across teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/112",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "beget the status of run from the last 219 day for all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/219",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "catch the status of ply from the last 219 sidereal day for wholly teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/219",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get the status of runs from the last 219 days for all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/219",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "show the function condition from the stopping point 652 days for each team.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/652",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "read the streak condition from the last 652 days for each team.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/652",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Show the run status from the last 652 days for each team.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/652",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide the run status for the last 892 Day across different teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/892",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide the run status for the final 892 day across different teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/892",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Provide the run status for the last 892 days across different teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/892",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "list the run status of all team for the past nineteen days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "List the run status of all teams for the past 19 days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "list the carry condition of all team for the past nineteen days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "bring the status of guide complete the last twenty day for all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/20",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get the status of runs over the last 20 days for all teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/20",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "have the condition of ply over the last twenty days for wholly teams.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/20",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Display the run status from the last 54 days for every team.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/54",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "display the run status from the last fifty-four day for every team.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/54",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the run status of all team over the last eight days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/8",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the prevail condition of wholly team over the last eight days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/8",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the run status of all teams over the last 8 days.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/status/all/8",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "drive run of team ten from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "beget streak of team ten from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get runs of team 10 from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/10",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get all the runs of team 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to arrive all the streak of team 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "How to get all the run of team 1?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/1",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "provide Maine wholly run of team 6?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/6",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "leave Maine wholly race of team 6?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/6",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Provide me all runs of team 6?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/6",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch the runs for team 61 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/61",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "bring the run for team sixty-one from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/61",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the run for team sixty-one from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/61",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the race of team seven from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/7",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the runs of team 7 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/7",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "recover the melt of team seven from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/7",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get the run data of team 8 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/8",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get the run data of team eight from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/8",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "prevail the run associate with team 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/11",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "receive the run consort with team 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/11",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Obtain the runs associated with team 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/11",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "bring the tend detail for team twelve from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/12",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch the run details for team 12 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/12",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the run details for team twelve from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/12",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "retrieve the team 13's run from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/13",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the team 13's runs from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/13",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "get the list of run for team fourteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/14",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "beget the list of run for team fourteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/14",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Get the list of runs for team 14 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/14",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Collect the runs of team 15 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/15",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "collect the test of team fifteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/15",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "roll up the run of team fifteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/15",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Show the runs of team 34.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/34",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "usher the run of team 34.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/34",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "show the run of team 34.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/34",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "list the run for team thirty-one from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/31",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "tilt the run for team thirty-one from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/31",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "List the runs for team 31 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/31",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the performance run of team eighteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/18",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "remember the operation run of team eighteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/18",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Retrieve the performance runs of team 18 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/18",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Fetch the run records of team 19 from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the hunt record of team nineteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "fetch the run record of team nineteen from SPOG.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/runs/19",
+      "method": "GET"
+    }
+  },
+  {
+    "input_text": "Create a reservation in data center 6 from time 2024-07-14T10:52:22.831Z to time 2024-07-14T14:52:22.891Z with my user id apple@maildummy.com and team id 1",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "team_id": 1,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-07-14T10:52:22.831Z",
+        "end_time": "2024-07-14T14:52:22.891Z"
+      }
+    }
+  },
+  {
+    "input_text": "create A reservation indium datum center six from time 2024-07-14T10:52:22.831Z to time 2024-07-14T14:52:22.891Z with my drug user ID apple@maildummy.com and team ID one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "team_id": 1,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-07-14T10:52:22.831Z",
+        "end_time": "2024-07-14T14:52:22.891Z"
+      }
+    }
+  },
+  {
+    "input_text": "make angstrom reservation inch data center six from time 2024-07-14T10:52:22.831Z to time 2024-07-14T14:52:22.891Z with my exploiter ID apple@maildummy.com and team ID one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "team_id": 1,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-07-14T10:52:22.831Z",
+        "end_time": "2024-07-14T14:52:22.891Z"
+      }
+    }
+  },
+  {
+    "input_text": "lay down deoxyadenosine monophosphate reservation inch datum center two from 2024-08-13T11:12:21.811Z to 2024-08-13T15:12:12.191Z exploitation my drug user Idaho any@maildummy.com and team id 2.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "any@maildummy.com",
+        "team_id": 2,
+        "dc_id": 2,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-13T11:12:21.811Z",
+        "end_time": "2024-08-13T15:12:12.191Z"
+      }
+    }
+  },
+  {
+    "input_text": "Make a reservation in data center 2 from 2024-08-13T11:12:21.811Z to 2024-08-13T15:12:12.191Z using my user ID any@maildummy.com and team ID 2.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "any@maildummy.com",
+        "team_id": 2,
+        "dc_id": 2,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-13T11:12:21.811Z",
+        "end_time": "2024-08-13T15:12:12.191Z"
+      }
+    }
+  },
+  {
+    "input_text": "make ampere booking inch data concentrate two from 2024-08-13T11:12:21.811Z to 2024-08-13T15:12:12.191Z use my drug user id any@maildummy.com and team id 2.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "any@maildummy.com",
+        "team_id": 2,
+        "dc_id": 2,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-13T11:12:21.811Z",
+        "end_time": "2024-08-13T15:12:12.191Z"
+      }
+    }
+  },
+  {
+    "input_text": "Reserve a slot in data center 3 from 2024-09-13T10:12:21.811Z to 2024-09-13T18:10:19.291Z with my user ID peter@maildummy.com and team ID 4.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "peter@maildummy.com",
+        "team_id": 4,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-09-13T10:12:21.811Z",
+        "end_time": "2024-09-13T18:10:19.291Z"
+      }
+    }
+  },
+  {
+    "input_text": "allow ampere slot in data center three from 2024-09-13T10:12:21.811Z to 2024-09-13T18:10:19.291Z with my user id peter@maildummy.com and team Idaho 4.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "peter@maildummy.com",
+        "team_id": 4,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-09-13T10:12:21.811Z",
+        "end_time": "2024-09-13T18:10:19.291Z"
+      }
+    }
+  },
+  {
+    "input_text": "reserve A slot in data center field three from 2024-09-13T10:12:21.811Z to 2024-09-13T18:10:19.291Z with my drug user id peter@maildummy.com and team Idaho 4.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "peter@maildummy.com",
+        "team_id": 4,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-09-13T10:12:21.811Z",
+        "end_time": "2024-09-13T18:10:19.291Z"
+      }
+    }
+  },
+  {
+    "input_text": "Bible deoxyadenosine monophosphate booking indium datum center six from 2024-08-11T09:01:21.564Z to 2024-08-11T13:43:01.945Z with my drug user id ravi@maildummy.com and team ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ravi@maildummy.com",
+        "team_id": 16,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-11T09:01:21.564Z",
+        "end_time": "2024-08-11T13:43:01.945Z"
+      }
+    }
+  },
+  {
+    "input_text": "Book a reservation in data center 6 from 2024-08-11T09:01:21.564Z to 2024-08-11T13:43:01.945Z with my user ID ravi@maildummy.com and team ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ravi@maildummy.com",
+        "team_id": 16,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-11T09:01:21.564Z",
+        "end_time": "2024-08-11T13:43:01.945Z"
+      }
+    }
+  },
+  {
+    "input_text": "book deoxyadenosine monophosphate reservation in datum center six from 2024-08-11T09:01:21.564Z to 2024-08-11T13:43:01.945Z with my drug user id ravi@maildummy.com and team ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ravi@maildummy.com",
+        "team_id": 16,
+        "dc_id": 6,
+        "testType": "inboundvoice",
+        "start_time": "2024-08-11T09:01:21.564Z",
+        "end_time": "2024-08-11T13:43:01.945Z"
+      }
+    }
+  },
+  {
+    "input_text": "create A reserve in data center three from 2024-11-17T17:32:21.765Z to 2024-11-17T21:58:00.234Z use my user ID orange@maildummy.com and team ID 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "orange@maildummy.com",
+        "team_id": 7,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-11-17T17:32:21.765Z",
+        "end_time": "2024-11-17T21:58:00.234Z"
+      }
+    }
+  },
+  {
+    "input_text": "create A booking in datum center three from 2024-11-17T17:32:21.765Z to 2024-11-17T21:58:00.234Z use my drug user id orange@maildummy.com and team ID 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "orange@maildummy.com",
+        "team_id": 7,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-11-17T17:32:21.765Z",
+        "end_time": "2024-11-17T21:58:00.234Z"
+      }
+    }
+  },
+  {
+    "input_text": "Create a booking in data center 3 from 2024-11-17T17:32:21.765Z to 2024-11-17T21:58:00.234Z using my user ID orange@maildummy.com and team ID 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "orange@maildummy.com",
+        "team_id": 7,
+        "dc_id": 3,
+        "testType": "inboundvoice",
+        "start_time": "2024-11-17T17:32:21.765Z",
+        "end_time": "2024-11-17T21:58:00.234Z"
+      }
+    }
+  },
+  {
+    "input_text": "How to create a reservation in spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "How to create adenine reservation indium spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "How to create adenine booking in spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "apple@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "What constitute the process to create deoxyadenosine monophosphate reservation in the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "suresh@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "What is the process to create a reservation in the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "suresh@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "What be the summons to create adenine mental reservation in the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "suresh@maildummy.com",
+        "teamId": 9
+      }
+    }
+  },
+  {
+    "input_text": "How toilet one make deoxyadenosine monophosphate reservation use the spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "yogesh@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "How can I make a reservation using the spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "yogesh@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "How toilet I seduce deoxyadenosine monophosphate reservation exploitation the spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "yogesh@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "How do one go about create A reservation Indiana the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akash@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "How practice one travel about create angstrom reservation Indiana the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akash@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "How do I go about creating a reservation in the spog tool?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akash@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "What is the curl command to create a reservation in spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "harsh@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "What constitute the curl up command to create A reservation inch spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "harsh@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "What be the curl control to create deoxyadenosine monophosphate reservation in spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "harsh@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "Get me the curl command to create a reservation in spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rekha@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "catch Maine the lock command to produce ampere reservation Indiana spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rekha@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "draw Maine the lock command to create ampere mental reservation indium spog?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rekha@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "curl command to create ampere reservation?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rashmi@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "curl command to create vitamin A reservation?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rashmi@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "Curl command to create a reservation?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/create",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rashmi@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "catch reservation for team ID sixteen from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 16
+      }
+    }
+  },
+  {
+    "input_text": "get reservation for team ID sixteen from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 16
+      }
+    }
+  },
+  {
+    "input_text": "Get reservations for team id 16 from SPOG",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 16
+      }
+    }
+  },
+  {
+    "input_text": "fetch all booking for team with Idaho 5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 5
+      }
+    }
+  },
+  {
+    "input_text": "bring all reservation for team with ID 5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 5
+      }
+    }
+  },
+  {
+    "input_text": "Fetch all reservations for team with ID 5.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 5
+      }
+    }
+  },
+  {
+    "input_text": "retrieve all reservation associate with team Idaho 6.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 6
+      }
+    }
+  },
+  {
+    "input_text": "remember all reservation consociate with team id 6.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 6
+      }
+    }
+  },
+  {
+    "input_text": "Retrieve all reservations associated with team ID 6.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 6
+      }
+    }
+  },
+  {
+    "input_text": "catch all the reservation belong to team Idaho 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 7
+      }
+    }
+  },
+  {
+    "input_text": "catch all the reservation belong to team id 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 7
+      }
+    }
+  },
+  {
+    "input_text": "Get all the reservations belonging to team ID 7.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 7
+      }
+    }
+  },
+  {
+    "input_text": "list all reservation for team ID 8.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 8
+      }
+    }
+  },
+  {
+    "input_text": "List all reservations for team ID 8.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 8
+      }
+    }
+  },
+  {
+    "input_text": "show wholly reservation coupled to team Idaho 9.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 9
+      }
+    }
+  },
+  {
+    "input_text": "Show all reservations linked to team ID 9.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 9
+      }
+    }
+  },
+  {
+    "input_text": "show all reservation coupled to team Idaho 9.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 9
+      }
+    }
+  },
+  {
+    "input_text": "provide wholly reservation for team with id 10.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 10
+      }
+    }
+  },
+  {
+    "input_text": "Provide all reservations for team with ID 10.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 10
+      }
+    }
+  },
+  {
+    "input_text": "provide all reservation for team with Idaho 10.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 10
+      }
+    }
+  },
+  {
+    "input_text": "buttocks you get all reservation for team Idaho 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 11
+      }
+    }
+  },
+  {
+    "input_text": "Can you get all reservations for team ID 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 11
+      }
+    }
+  },
+  {
+    "input_text": "can you beget wholly reservation for team id 11?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 11
+      }
+    }
+  },
+  {
+    "input_text": "iodine want all booking for team ID 12.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 12
+      }
+    }
+  },
+  {
+    "input_text": "I need all reservations for team ID 12.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 12
+      }
+    }
+  },
+  {
+    "input_text": "one motivation wholly reservation for team ID 12.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 12
+      }
+    }
+  },
+  {
+    "input_text": "Get reservations for team id 1",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 1
+      }
+    }
+  },
+  {
+    "input_text": "scram mental reservation for team ID one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 1
+      }
+    }
+  },
+  {
+    "input_text": "get reservation for team ID one",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 1
+      }
+    }
+  },
+  {
+    "input_text": "How to catch mental reservation for team id three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 3
+      }
+    }
+  },
+  {
+    "input_text": "How to make reservation for team Idaho three",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 3
+      }
+    }
+  },
+  {
+    "input_text": "How to get reservations for team id 3",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 3
+      }
+    }
+  },
+  {
+    "input_text": "All reservations of team with id 4",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 4
+      }
+    }
+  },
+  {
+    "input_text": "wholly reservation of team with id four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 4
+      }
+    }
+  },
+  {
+    "input_text": "wholly reservation of team with ID four",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/reserve/",
+      "method": "GET",
+      "params": {
+        "team_id": 4
+      }
+    }
+  },
+  {
+    "input_text": "Create a user with email pnarah@maildummy.com with team ID 10",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "pnarah@maildummy.com",
+        "teamId": 10
+      }
+    }
+  },
+  {
+    "input_text": "produce A drug user with electronic mail pnarah@maildummy.com with team ID ten",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "pnarah@maildummy.com",
+        "teamId": 10
+      }
+    }
+  },
+  {
+    "input_text": "create vitamin A exploiter with electronic mail pnarah@maildummy.com with team ID ten",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "pnarah@maildummy.com",
+        "teamId": 10
+      }
+    }
+  },
+  {
+    "input_text": "create adenine user with the electronic mail abhi@maildummy.com and team ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "abhi@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "Create a user with the email abhi@maildummy.com and team ID 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "abhi@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "create adenine exploiter with the e-mail abhi@maildummy.com and team Idaho 16.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "abhi@maildummy.com",
+        "teamId": 16
+      }
+    }
+  },
+  {
+    "input_text": "add A exploiter with the electronic mail naresh@maildummy.com to the team with Idaho 1.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "naresh@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "lend adenine exploiter with the electronic mail naresh@maildummy.com to the team with ID 1.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "naresh@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "Add a user with the email naresh@maildummy.com to the team with ID 1.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "naresh@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "Register a user using the email sumesh@maildummy.com for team ID 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "sumesh@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "cash register ampere drug user use the e-mail sumesh@maildummy.com for team Idaho 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "sumesh@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "register angstrom drug user practice the electronic mail sumesh@maildummy.com for team ID 11.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "sumesh@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "place up A exploiter with electronic mail akhil@maildummy.com and assign them to team Idaho 15.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akhil@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "sic up deoxyadenosine monophosphate drug user with electronic mail akhil@maildummy.com and put them to team Idaho 15.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akhil@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "Set up a user with email akhil@maildummy.com and assign them to team ID 15.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "akhil@maildummy.com",
+        "teamId": 15
+      }
+    }
+  },
+  {
+    "input_text": "create ampere raw drug user with the e-mail nikhil@maildummy.com under team id 17.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "nikhil@maildummy.com",
+        "teamId": 17
+      }
+    }
+  },
+  {
+    "input_text": "Create a new user with the email nikhil@maildummy.com under team ID 17.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "nikhil@maildummy.com",
+        "teamId": 17
+      }
+    }
+  },
+  {
+    "input_text": "produce angstrom newfangled exploiter with the electronic mail nikhil@maildummy.com under team id 17.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "nikhil@maildummy.com",
+        "teamId": 17
+      }
+    }
+  },
+  {
+    "input_text": "Add the user with email rukshana@maildummy.com to the team identified by 19.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rukshana@maildummy.com",
+        "teamId": 19
+      }
+    }
+  },
+  {
+    "input_text": "add the exploiter with e-mail rukshana@maildummy.com to the team identified by 19.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rukshana@maildummy.com",
+        "teamId": 19
+      }
+    }
+  },
+  {
+    "input_text": "add the user with e-mail rukshana@maildummy.com to the team identify by 19.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rukshana@maildummy.com",
+        "teamId": 19
+      }
+    }
+  },
+  {
+    "input_text": "Create an account for the user with email paresh@maildummy.com and team ID 20.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "paresh@maildummy.com",
+        "teamId": 20
+      }
+    }
+  },
+  {
+    "input_text": "make Associate in Nursing account for the user with electronic mail paresh@maildummy.com and team Idaho 20.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "paresh@maildummy.com",
+        "teamId": 20
+      }
+    }
+  },
+  {
+    "input_text": "create Associate in Nursing report for the drug user with e-mail paresh@maildummy.com and team ID 20.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "paresh@maildummy.com",
+        "teamId": 20
+      }
+    }
+  },
+  {
+    "input_text": "Create a user account for anitha@maildummy.com with the team ID 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anitha@maildummy.com",
+        "teamId": 13
+      }
+    }
+  },
+  {
+    "input_text": "create adenine user report for anitha@maildummy.com with the team ID 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anitha@maildummy.com",
+        "teamId": 13
+      }
+    }
+  },
+  {
+    "input_text": "create adenine exploiter account for anitha@maildummy.com with the team id 13.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anitha@maildummy.com",
+        "teamId": 13
+      }
+    }
+  },
+  {
+    "input_text": "How to make A user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "prasanta@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "How to Create a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "prasanta@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "How to produce angstrom user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "prasanta@maildummy.com",
+        "teamId": 1
+      }
+    }
+  },
+  {
+    "input_text": "How displace iodine create vitamin A user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anil@maildummy.com",
+        "teamId": 2
+      }
+    }
+  },
+  {
+    "input_text": "How can one create angstrom user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anil@maildummy.com",
+        "teamId": 2
+      }
+    }
+  },
+  {
+    "input_text": "How can I create a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "anil@maildummy.com",
+        "teamId": 2
+      }
+    }
+  },
+  {
+    "input_text": "How do I go about creating a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "raghav@maildummy.com",
+        "teamId": 3
+      }
+    }
+  },
+  {
+    "input_text": "How make I move about create angstrom user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "raghav@maildummy.com",
+        "teamId": 3
+      }
+    }
+  },
+  {
+    "input_text": "How do I move about produce vitamin A user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "raghav@maildummy.com",
+        "teamId": 3
+      }
+    }
+  },
+  {
+    "input_text": "Can you guide me on how to create a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "amish@maildummy.com",
+        "teamId": 4
+      }
+    }
+  },
+  {
+    "input_text": "displace you usher Maine on how to produce angstrom user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "amish@maildummy.com",
+        "teamId": 4
+      }
+    }
+  },
+  {
+    "input_text": "can you guidebook Maine on how to create deoxyadenosine monophosphate user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "amish@maildummy.com",
+        "teamId": 4
+      }
+    }
+  },
+  {
+    "input_text": "How cause one make ampere user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "shita@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "How make matchless make vitamin A user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "shita@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "How does one create a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "shita@maildummy.com",
+        "teamId": 6
+      }
+    }
+  },
+  {
+    "input_text": "What be the lock control to create adenine user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ram@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "What be the curl instruction to create angstrom user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ram@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "What is the curl command to Create a user?",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "ram@maildummy.com",
+        "teamId": 8
+      }
+    }
+  },
+  {
+    "input_text": "Curl command to add a user with email rock@maildummy.com and team id 11",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rock@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "lock command to attention deficit disorder vitamin A drug user with electronic mail rock@maildummy.com and team id eleven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rock@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "lock command to attention deficit disorder A user with electronic mail rock@maildummy.com and team ID eleven",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/users/",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "email": "rock@maildummy.com",
+        "teamId": 11
+      }
+    }
+  },
+  {
+    "input_text": "trigger 2hr load start astatine 2024-07-14T10:52:22.831Z American Samoa user1@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user1@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user1@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 2
+          }
+        ],
+        "load_duration": 2,
+        "fail_criterion": 85,
+        "start_time": "2024-07-14T10:52:22.831Z"
+      }
+    }
+  },
+  {
+    "input_text": "gun trigger 2hr load start astatine 2024-07-14T10:52:22.831Z deoxyadenosine monophosphate user1@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user1@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user1@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 2
+          }
+        ],
+        "load_duration": 2,
+        "fail_criterion": 85,
+        "start_time": "2024-07-14T10:52:22.831Z"
+      }
+    }
+  },
+  {
+    "input_text": "Trigger 2hr load starting at 2024-07-14T10:52:22.831Z as user1@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user1@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user1@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 2
+          }
+        ],
+        "load_duration": 2,
+        "fail_criterion": 85,
+        "start_time": "2024-07-14T10:52:22.831Z"
+      }
+    }
+  },
+  {
+    "input_text": "Run load for 3hr's starting at time 2024-08-09T13:12:45.365Z as user2@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user2@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user2@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 3
+          }
+        ],
+        "load_duration": 3,
+        "fail_criterion": 85,
+        "start_time": "2024-08-09T13:12:45.365Z"
+      }
+    }
+  },
+  {
+    "input_text": "tend load for 3hr's start at meter 2024-08-09T13:12:45.365Z arsenic user2@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user2@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user2@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 3
+          }
+        ],
+        "load_duration": 3,
+        "fail_criterion": 85,
+        "start_time": "2024-08-09T13:12:45.365Z"
+      }
+    }
+  },
+  {
+    "input_text": "run load for 3hr's begin at time 2024-08-09T13:12:45.365Z A user2@mail.com",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user2@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user2@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 3
+          }
+        ],
+        "load_duration": 3,
+        "fail_criterion": 85,
+        "start_time": "2024-08-09T13:12:45.365Z"
+      }
+    }
+  },
+  {
+    "input_text": "begin deoxyadenosine monophosphate four hour load astatine 2024-11-13T08:13:00.001Z practice the electronic mail user4@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user4@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user4@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 4
+          }
+        ],
+        "load_duration": 4,
+        "fail_criterion": 85,
+        "start_time": "2024-11-13T08:13:00.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "Start a 4 hour load at 2024-11-13T08:13:00.001Z using the email user4@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user4@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user4@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 4
+          }
+        ],
+        "load_duration": 4,
+        "fail_criterion": 85,
+        "start_time": "2024-11-13T08:13:00.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "start A four hour load astatine 2024-11-13T08:13:00.001Z use the electronic mail user4@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user4@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user4@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 4
+          }
+        ],
+        "load_duration": 4,
+        "fail_criterion": 85,
+        "start_time": "2024-11-13T08:13:00.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "initiate ampere five hour cargo start at 2024-12-05T17:02:12.931Z with user5@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user5@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user5@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 5
+          }
+        ],
+        "load_duration": 5,
+        "fail_criterion": 85,
+        "start_time": "2024-12-05T17:02:12.931Z"
+      }
+    }
+  },
+  {
+    "input_text": "lead up A five hour load start astatine 2024-12-05T17:02:12.931Z with user5@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user5@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user5@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 5
+          }
+        ],
+        "load_duration": 5,
+        "fail_criterion": 85,
+        "start_time": "2024-12-05T17:02:12.931Z"
+      }
+    }
+  },
+  {
+    "input_text": "Initiate a 5 hour load starting at 2024-12-05T17:02:12.931Z with user5@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user5@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user5@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 5
+          }
+        ],
+        "load_duration": 5,
+        "fail_criterion": 85,
+        "start_time": "2024-12-05T17:02:12.931Z"
+      }
+    }
+  },
+  {
+    "input_text": "range vitamin A six hour burden from 2024-12-07T09:12:20.731Z under the electronic mail user6@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user6@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user6@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 6
+          }
+        ],
+        "load_duration": 6,
+        "fail_criterion": 85,
+        "start_time": "2024-12-07T09:12:20.731Z"
+      }
+    }
+  },
+  {
+    "input_text": "Run a 6 hour load from 2024-12-07T09:12:20.731Z under the email user6@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user6@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user6@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 6
+          }
+        ],
+        "load_duration": 6,
+        "fail_criterion": 85,
+        "start_time": "2024-12-07T09:12:20.731Z"
+      }
+    }
+  },
+  {
+    "input_text": "run angstrom six hour load from 2024-12-07T09:12:20.731Z under the e-mail user6@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user6@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user6@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 6
+          }
+        ],
+        "load_duration": 6,
+        "fail_criterion": 85,
+        "start_time": "2024-12-07T09:12:20.731Z"
+      }
+    }
+  },
+  {
+    "input_text": "Trigger a 7 hour load to begin at 2024-12-08T14:10:50.736Z with the email user7@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user7@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user7@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 7
+          }
+        ],
+        "load_duration": 7,
+        "fail_criterion": 85,
+        "start_time": "2024-12-08T14:10:50.736Z"
+      }
+    }
+  },
+  {
+    "input_text": "trigger ampere seven hour load to begin at 2024-12-08T14:10:50.736Z with the e-mail user7@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user7@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user7@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 7
+          }
+        ],
+        "load_duration": 7,
+        "fail_criterion": 85,
+        "start_time": "2024-12-08T14:10:50.736Z"
+      }
+    }
+  },
+  {
+    "input_text": "gun trigger adenine seven hour load to begin astatine 2024-12-08T14:10:50.736Z with the e-mail user7@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user7@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user7@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 7
+          }
+        ],
+        "load_duration": 7,
+        "fail_criterion": 85,
+        "start_time": "2024-12-08T14:10:50.736Z"
+      }
+    }
+  },
+  {
+    "input_text": "Begin a 8 hour load at 2024-10-23T19:02:56.561Z as user8@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user8@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user8@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 8
+          }
+        ],
+        "load_duration": 8,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T19:02:56.561Z"
+      }
+    }
+  },
+  {
+    "input_text": "begin A eight hour burden at 2024-10-23T19:02:56.561Z A user8@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user8@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user8@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 8
+          }
+        ],
+        "load_duration": 8,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T19:02:56.561Z"
+      }
+    }
+  },
+  {
+    "input_text": "begin A eight hour load at 2024-10-23T19:02:56.561Z angstrom user8@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user8@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user8@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 8
+          }
+        ],
+        "load_duration": 8,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T19:02:56.561Z"
+      }
+    }
+  },
+  {
+    "input_text": "Start a load for 9 hours, beginning at 2024-09-29T17:54:59.001Z using user9@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user9@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user9@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 9
+          }
+        ],
+        "load_duration": 9,
+        "fail_criterion": 85,
+        "start_time": "2024-09-29T17:54:59.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "startle vitamin A load for nine hours, beginning at 2024-09-29T17:54:59.001Z use user9@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user9@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user9@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 9
+          }
+        ],
+        "load_duration": 9,
+        "fail_criterion": 85,
+        "start_time": "2024-09-29T17:54:59.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "get down adenine load for nine hours, begin astatine 2024-09-29T17:54:59.001Z use user9@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "user9@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "user9@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 9
+          }
+        ],
+        "load_duration": 9,
+        "fail_criterion": 85,
+        "start_time": "2024-09-29T17:54:59.001Z"
+      }
+    }
+  },
+  {
+    "input_text": "launch deoxyadenosine monophosphate ten hour warhead at 2024-10-23T23:43:56.700Z with alish10@mail.com equally the user.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "alish10@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "alish10@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 10
+          }
+        ],
+        "load_duration": 10,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T23:43:56.700Z"
+      }
+    }
+  },
+  {
+    "input_text": "Launch a 10 hour load at 2024-10-23T23:43:56.700Z with alish10@mail.com as the user.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "alish10@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "alish10@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 10
+          }
+        ],
+        "load_duration": 10,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T23:43:56.700Z"
+      }
+    }
+  },
+  {
+    "input_text": "launch adenine ten hour load astatine 2024-10-23T23:43:56.700Z with alish10@mail.com angstrom the user.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "alish10@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "alish10@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 10
+          }
+        ],
+        "load_duration": 10,
+        "fail_criterion": 85,
+        "start_time": "2024-10-23T23:43:56.700Z"
+      }
+    }
+  },
+  {
+    "input_text": "Execute a 11 hour load starting at 2024-08-07T20:00:20.010Z under the email harish@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "harish@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "harish@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 11
+          }
+        ],
+        "load_duration": 11,
+        "fail_criterion": 85,
+        "start_time": "2024-08-07T20:00:20.010Z"
+      }
+    }
+  },
+  {
+    "input_text": "execute A eleven hour load begin at 2024-08-07T20:00:20.010Z under the electronic mail harish@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "harish@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "harish@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 11
+          }
+        ],
+        "load_duration": 11,
+        "fail_criterion": 85,
+        "start_time": "2024-08-07T20:00:20.010Z"
+      }
+    }
+  },
+  {
+    "input_text": "execute angstrom eleven hour load start at 2024-08-07T20:00:20.010Z nether the e-mail harish@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "harish@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "harish@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 11
+          }
+        ],
+        "load_duration": 11,
+        "fail_criterion": 85,
+        "start_time": "2024-08-07T20:00:20.010Z"
+      }
+    }
+  },
+  {
+    "input_text": "kick off angstrom twelve hour load at 2024-06-12T12:23:45.767Z A lata@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "lata@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "lata@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 12
+          }
+        ],
+        "load_duration": 12,
+        "fail_criterion": 85,
+        "start_time": "2024-06-12T12:23:45.767Z"
+      }
+    }
+  },
+  {
+    "input_text": "Kick off a 12 hour load at 2024-06-12T12:23:45.767Z as lata@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "lata@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "lata@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 12
+          }
+        ],
+        "load_duration": 12,
+        "fail_criterion": 85,
+        "start_time": "2024-06-12T12:23:45.767Z"
+      }
+    }
+  },
+  {
+    "input_text": "complain off angstrom twelve hour load at 2024-06-12T12:23:45.767Z A lata@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "lata@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "lata@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 12
+          }
+        ],
+        "load_duration": 12,
+        "fail_criterion": 85,
+        "start_time": "2024-06-12T12:23:45.767Z"
+      }
+    }
+  },
+  {
+    "input_text": "Run a 13 hour load starting at 2024-02-12T23:52:00.000Z, triggered by akshath@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "akshath@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "akshath@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 13
+          }
+        ],
+        "load_duration": 13,
+        "fail_criterion": 85,
+        "start_time": "2024-02-12T23:52:00.000Z"
+      }
+    }
+  },
+  {
+    "input_text": "footrace angstrom thirteen hour warhead start astatine 2024-02-12T23:52:00.000Z, trigger aside akshath@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "akshath@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "akshath@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 13
+          }
+        ],
+        "load_duration": 13,
+        "fail_criterion": 85,
+        "start_time": "2024-02-12T23:52:00.000Z"
+      }
+    }
+  },
+  {
+    "input_text": "run A thirteen hour load start astatine 2024-02-12T23:52:00.000Z, trip by akshath@mail.com.",
+    "api_request": {
+      "endpoint": "https://spogbackendurl/schedule/create/shift",
+      "method": "POST",
+      "headers": {
+        "accept": "application/json",
+        "Content-Type": "application/json"
+      },
+      "data": {
+        "RunID": "run_id_to_replace_str",
+        "email": "akshath@mail.com",
+        "team_id": "teamid_replace_int",
+        "reservation_id": "reservation_id_to_replace_int",
+        "call_duration": 300,
+        "testType": "inboundvoice",
+        "dc_name": "loadus1",
+        "mailing_list": "akshath@mail.com",
+        "shifts": [
+          {
+            "call_profile": "calldummy.json",
+            "agent_profile": [
+              "agendummy.csv"
+            ],
+            "duration": 13
+          }
+        ],
+        "load_duration": 13,
+        "fail_criterion": 85,
+        "start_time": "2024-02-12T23:52:00.000Z"
+      }
+    }
+  }
+]
