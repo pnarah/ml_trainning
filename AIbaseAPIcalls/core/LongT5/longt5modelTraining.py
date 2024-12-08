@@ -27,8 +27,8 @@ def train():
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
     # Update the model's configuration to handle long inputs if needed
-    tokenizer.model_max_length = 4096  # LongT5 can handle up to 16,384 tokens, adjust as needed
-    model.config.max_length = 4096
+    tokenizer.model_max_length = 1024  # LongT5 can handle up to 16,384 tokens, adjust as needed
+    model.config.max_length = 1024
 
     # Load the training data from the SageMaker directory
     training_data_path = os.path.join('/opt/ml/input/data/training', 'augmented_trainin_data_spog.json')
